@@ -1,0 +1,87 @@
+[
+  {
+    "requirement_name" : "AI 010",
+    "num_required" : 1,
+    "courses" : ["AI 010"]
+  },
+  {
+    "requirement_name" : "psych or ai",
+    "num_required" : 1,
+    "courses" : ["AI 036", "PSY 125"]
+  },
+  {
+    "requirement_name" : "philosophy",
+    "num_required" : 1,
+    "courses" : ["PHIL 130", "PHIL 142"]
+  },
+  {
+    "requirement_name" : "ENG 082",
+    "num_required" : 1,
+    "courses" : ["ENG 082"]
+  },
+  {
+    "requirement_name" : "AI 190",
+    "num_required" : 1,
+    "courses" : ["AI 190"]
+  },
+  {
+    "requirement_name" : "CS 065",
+    "num_required" : 1,
+    "courses" : ["CS 065"]
+  },
+  {
+    "requirement_name" : "CS 066",
+    "num_required" : 1,
+    "courses" : ["CS 066"]
+  },
+  {
+    "requirement_name" : "CS 083",
+    "num_required" : 1,
+    "courses" : ["CS 083"]
+  },
+  {
+    "requirement_name" : "CS 143",
+    "num_required" : 1,
+    "courses" : ["CS 143"]
+  },
+  {
+    "requirement_name" : "CS 167",
+    "num_required" : 1,
+    "courses" : ["CS 167"]
+  },
+  {
+    "requirement_name" : "IS 083",
+    "num_required" : 1,
+    "courses" : ["CS 083"]
+  },
+  {
+    "requirement_name" : "CS 120",
+    "num_required" : 1,
+    "courses" : ["CS 120"]
+  },
+  {
+    "requirement_name" : "IS 161",
+    "num_required" : 1,
+    "courses" : ["IS 161"]
+  },
+  {
+    "requirement_name" : "language",
+    "num_required" : 1,
+    "courses" : ["PHIL 128", "ENG 139"]
+  },
+  {
+    "requirement_name" : "introduction",
+    "num_required" : 1,
+    "courses" : ["PSY 001", "NSCI 001"]
+  },
+  {
+    "requirement_name" : "probability",
+    "num_required" : 1,
+    "courses" : ["STAT 071", "MATH 130"]
+  },
+  {
+    "requirement_name" : "regression",
+    "num_required" : 1,
+    "courses" : ["STAT 108", "STAT 170"]
+  }
+]
