@@ -1,0 +1,84 @@
+[
+  {
+    "requirement_name" : "CS 065",
+    "num_required" : 1,
+    "courses" : ["CS 065"]
+  },
+  {
+    "requirement_name" : "CS 066",
+    "num_required" : 1,
+    "courses" : ["CS 066"]
+  },
+  {
+    "requirement_name" : "CS 083",
+    "num_required" : 1,
+    "courses" : ["CS 083"]
+  },
+  {
+    "requirement_name" : "CS 167",
+    "num_required" : 1,
+    "courses" : ["CS 167"]
+  },
+  {
+    "requirement_name" : "CS 178",
+    "num_required" : 1,
+    "courses" : ["CS 178"]
+  },
+  {
+    "requirement_name" : "IS 044",
+    "num_required" : 1,
+    "courses" : ["IS 044"]
+  },
+  {
+    "requirement_name" : "IS 160",
+    "num_required" : 1,
+    "courses" : ["IS 160"]
+  },
+  {
+    "requirement_name" : "MATH 050",
+    "num_required" : 1,
+    "courses" : ["MATH 050"]
+  },
+  {
+    "requirement_name" : "MATH 070",
+    "num_required" : 1,
+    "courses" : ["MATH 070"]
+  },
+  {
+    "requirement_name" : "STAT 040",
+    "num_required" : 1,
+    "courses" : ["STAT 040"]
+  },
+  {
+    "requirement_name" : "STAT 072",
+    "num_required" : 1,
+    "courses" : ["STAT 072"]
+  },
+  {
+    "requirement_name" : "STAT 130",
+    "num_required" : 1,
+    "courses" : ["STAT 130"]
+  },
+  {
+    "requirement_name" : "STAT 170",
+    "num_required" : 1,
+    "courses" : ["STAT 170"]
+  },
+  {
+    "requirement_name" : "STAT 172",
+    "num_required" : 1,
+    "courses" : ["STAT 172"]
+  },
+  {
+    "requirement_name" : "STAT 190",
+    "num_required" : 1,
+    "courses" : ["STAT 190"]
+  },
+  {
+    "requirement_name" : "select 2",
+    "num_required" : 2,
+    "courses" : ["CS 116","CS 137","CS 143","MATH 080",
+                  "MATH 100","MATH 120","MATH 121","MATH 125","MATH 127",
+                  "MATH 165","MATH 176"]
+  }
+]
