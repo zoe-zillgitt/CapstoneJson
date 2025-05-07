@@ -2,5 +2,9 @@
     {
         "course" : "CS 066",
         "prerequisites" : ["CS 065"]
+    },
+    {
+        "course" : "CYB 140",
+        "prerequisites" : ["CYB 010"]
     }
 ]
