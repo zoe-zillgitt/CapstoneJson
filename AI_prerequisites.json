@@ -1,0 +1,30 @@
+[
+  {
+    "course" : "PSY 125",
+    "prerequisites" : ["PSY 001","STAT 071"]
+  },
+  {
+    "course" : "CS 066",
+    "prerequisites" : ["CS 065"]
+  },
+  {
+    "course" : "CS 143",
+    "prerequisites" : ["CS 066"]
+  },
+  {
+    "course" : "CS 167",
+    "prerequisites" : ["CS 065","CS 066"]
+  },
+  {
+    "course" : "CS 120",
+    "prerequisites" : ["CS 065"]
+  },
+  {
+    "course" : "IS 161",
+    "prerequisites" : ["CS 066"]
+  },
+  {
+    "course" : "STAT 108",
+    "prerequisites" : ["STAT 071"]
+  }
+]
