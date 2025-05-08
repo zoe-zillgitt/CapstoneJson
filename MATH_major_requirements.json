@@ -1,0 +1,57 @@
+[
+  {
+    "requirement_name" : "CS 065",
+    "num_required" : 1,
+    "courses" : ["CS 065"]
+  },
+  {
+    "requirement_name" : "MATH 050",
+    "num_required" : 1,
+    "courses" : ["MATH 050"]
+  },
+  {
+    "requirement_name" : "MATH 070",
+    "num_required" : 1,
+    "courses" : ["MATH 070"]
+  },
+  {
+    "requirement_name" : "MATH 080",
+    "num_required" : 1,
+    "courses" : ["MATH 080"]
+  },
+  {
+    "requirement_name" : "MATH 100",
+    "num_required" : 1,
+    "courses" : ["MATH 100"]
+  },
+  {
+    "requirement_name" : "MATH 101",
+    "num_required" : 1,
+    "courses" : ["MATH 101"]
+  },
+  {
+    "requirement_name" : "MATH 110",
+    "num_required" : 1,
+    "courses" : ["MATH 110"]
+  },
+  {
+    "requirement_name" : "MATH 191",
+    "num_required" : 1,
+    "courses" : ["MATH 191"]
+  },
+  {
+    "requirement_name" : "Algebra Sequence",
+    "num_required" : 2,
+    "courses" : ["MATH 155","MATH 156","MATH 176"]
+  },
+  {
+    "requirement_name" : "Computational Science Sequence",
+    "num_required" : 2,
+    "courses" : ["MATH 139","MATH 148","MATH 150"]
+  },
+  {
+    "requirement_name" : "Computational Mathematics Sequence",
+    "num_required" : 2,
+    "courses" : ["MATH 165","MATH 176"]
+  },
+]
