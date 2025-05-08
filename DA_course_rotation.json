@@ -93,11 +93,11 @@
   },
   {
     "course": "MATH 127",
-    "terms_offered" : [202610,202810]
+    "terms_offered" : [202610,202810,0]
   },
   {
     "course": "MATH 165",
-    "terms_offered" : [202620,202820]
+    "terms_offered" : [202620,202820,0]
   },
   {
     "course": "MATH 176",
