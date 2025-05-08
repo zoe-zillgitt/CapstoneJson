@@ -53,5 +53,5 @@
     "requirement_name" : "Computational Mathematics Sequence",
     "num_required" : 2,
     "courses" : ["MATH 165","MATH 176"]
-  },
+  }
 ]
