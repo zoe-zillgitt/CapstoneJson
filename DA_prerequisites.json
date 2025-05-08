@@ -41,7 +41,7 @@
   },
   {
     "course" : "STAT 172",
-    "prerequisites" : ["STAT 040","STAT 130","MATH 070","STAT 170"]
+    "prerequisites" : ["MATH 070","STAT 170"]
   },
   {
     "course" : "STAT 190",
