@@ -1,0 +1,50 @@
+[
+  {
+    "course" : "MATH 070",
+    "prerequisites" : ["MATH 050"]
+  },
+  {
+    "course" : "MATH 080",
+    "prerequisites" : ["MATH 050"]
+  },
+  {
+    "course" : "MATH 100",
+    "prerequisites" : ["MATH 070"]
+  },
+  {
+    "course" : "MATH 101",
+    "prerequisites" : ["MATH 070","MATH 080"]
+  },
+  {
+    "course" : "MATH 110",
+    "prerequisites" : ["MATH 100"]
+  },
+  {
+    "course" : "MATH 155",
+    "prerequisites" : ["MATH 101"]
+  },
+  {
+    "course" : "MATH 176",
+    "prerequisites" : ["MATH 101"]
+  },
+  {
+    "course" : "MATH 139",
+    "prerequisites" : ["CS 065"]
+  },
+  {
+    "course" : "MATH 148",
+    "prerequisites" : ["MATH 101"]
+  },
+  {
+    "course" : "MATH 150",
+    "prerequisites" : ["MATH 101","CS 065"]
+  },
+  {
+    "course" : "MATH 165",
+    "prerequisites" : ["MATH 080","MATH 100","CS 065"]
+  },
+  {
+    "course" : "MATH 176",
+    "prerequisites" : ["MATH 101"]
+  }
+]
